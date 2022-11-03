@@ -1,0 +1,15 @@
+D:\projects\Excel.Sample\Excel.Sample.CodeFixes\bin\Debug\netstandard2.0\Excel.Sample.CodeFixes.deps.json
+D:\projects\Excel.Sample\Excel.Sample.CodeFixes\bin\Debug\netstandard2.0\Excel.Sample.CodeFixes.dll
+D:\projects\Excel.Sample\Excel.Sample.CodeFixes\bin\Debug\netstandard2.0\Excel.Sample.CodeFixes.pdb
+D:\projects\Excel.Sample\Excel.Sample.CodeFixes\bin\Debug\netstandard2.0\Excel.Sample.dll
+D:\projects\Excel.Sample\Excel.Sample.CodeFixes\bin\Debug\netstandard2.0\Excel.Sample.pdb
+D:\projects\Excel.Sample\Excel.Sample.CodeFixes\obj\Debug\netstandard2.0\Excel.Sample.CodeFixes.csproj.AssemblyReference.cache
+D:\projects\Excel.Sample\Excel.Sample.CodeFixes\obj\Debug\netstandard2.0\Excel.Sample.CodeFixResources.resources
+D:\projects\Excel.Sample\Excel.Sample.CodeFixes\obj\Debug\netstandard2.0\Excel.Sample.CodeFixes.csproj.GenerateResource.cache
+D:\projects\Excel.Sample\Excel.Sample.CodeFixes\obj\Debug\netstandard2.0\Excel.Sample.CodeFixes.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Excel.Sample\Excel.Sample.CodeFixes\obj\Debug\netstandard2.0\Excel.Sample.CodeFixes.AssemblyInfoInputs.cache
+D:\projects\Excel.Sample\Excel.Sample.CodeFixes\obj\Debug\netstandard2.0\Excel.Sample.CodeFixes.AssemblyInfo.cs
+D:\projects\Excel.Sample\Excel.Sample.CodeFixes\obj\Debug\netstandard2.0\Excel.Sample.CodeFixes.csproj.CoreCompileInputs.cache
+D:\projects\Excel.Sample\Excel.Sample.CodeFixes\obj\Debug\netstandard2.0\Excel.Sample.CodeFixes.csproj.CopyComplete
+D:\projects\Excel.Sample\Excel.Sample.CodeFixes\obj\Debug\netstandard2.0\Excel.Sample.CodeFixes.dll
+D:\projects\Excel.Sample\Excel.Sample.CodeFixes\obj\Debug\netstandard2.0\Excel.Sample.CodeFixes.pdb

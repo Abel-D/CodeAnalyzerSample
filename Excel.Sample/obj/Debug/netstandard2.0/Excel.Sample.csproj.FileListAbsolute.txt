@@ -1,0 +1,12 @@
+D:\projects\Excel.Sample\Excel.Sample\bin\Debug\netstandard2.0\Excel.Sample.deps.json
+D:\projects\Excel.Sample\Excel.Sample\bin\Debug\netstandard2.0\Excel.Sample.dll
+D:\projects\Excel.Sample\Excel.Sample\bin\Debug\netstandard2.0\Excel.Sample.pdb
+D:\projects\Excel.Sample\Excel.Sample\obj\Debug\netstandard2.0\Excel.Sample.csproj.AssemblyReference.cache
+D:\projects\Excel.Sample\Excel.Sample\obj\Debug\netstandard2.0\Excel.Sample.Resources.resources
+D:\projects\Excel.Sample\Excel.Sample\obj\Debug\netstandard2.0\Excel.Sample.csproj.GenerateResource.cache
+D:\projects\Excel.Sample\Excel.Sample\obj\Debug\netstandard2.0\Excel.Sample.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Excel.Sample\Excel.Sample\obj\Debug\netstandard2.0\Excel.Sample.AssemblyInfoInputs.cache
+D:\projects\Excel.Sample\Excel.Sample\obj\Debug\netstandard2.0\Excel.Sample.AssemblyInfo.cs
+D:\projects\Excel.Sample\Excel.Sample\obj\Debug\netstandard2.0\Excel.Sample.csproj.CoreCompileInputs.cache
+D:\projects\Excel.Sample\Excel.Sample\obj\Debug\netstandard2.0\Excel.Sample.dll
+D:\projects\Excel.Sample\Excel.Sample\obj\Debug\netstandard2.0\Excel.Sample.pdb
